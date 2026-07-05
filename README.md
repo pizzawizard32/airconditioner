@@ -1,4 +1,5 @@
 > PLEASE NOTE THAT THIS PROGRAM DOES NOT USE ANY STOLEN PROPRIETARY CODE FROM MINECRAFT: CONSOLE EDITION AND IT DOES NOT REDISTRIBUTE ANY COPY OF THE GAME.
+
 ![airconditioner logo (very tuff fr)](airclogo-lowres.png)
 # airconditioner
 aircondtioner (also AC, air, AIR, AIRC, airc and uhhh idk lol) is a simple work-in-progress public-domain launcher for Minecraft: Legacy Console Edition (LCE) that can run on older versions of Windows NT (such as Windows 7).
