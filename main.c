@@ -97,15 +97,15 @@ LRESULT CALLBACK WindowProcedure (HWND hwnd, UINT message, WPARAM wParam, LPARAM
         case WM_COMMAND:
             switch (LOWORD(wParam)) {
                 case 1:
-		    system("start lce\\minecraft.client.exe");
-		    system("exit");
+		            system("start lce\\minecraft.client.exe");
+		            system("exit");
                     break;
                 case 2:
                     system("start http://lce-hub.github.io/piston");
                     break;
-		case 3:
-		    system("notepad lce\\username.txt");
-		    break;
+		        case 3:
+		            system("notepad lce\\username.txt");
+		            break;
             }
             break;
         case WM_DESTROY:
